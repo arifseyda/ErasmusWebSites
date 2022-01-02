@@ -1,6 +1,6 @@
 # Web Application Features
 
-This project develop with C#. 
+This project developed with C#. 
 I use the MVC design pattern in this project. I use the SQL Server for databse process as well.
 The other feature of this project is that, I develop the language cahnge options such as English and Turkish.
 
